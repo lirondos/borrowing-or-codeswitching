@@ -3,9 +3,10 @@ Repo for the paper [Borrowing or Codeswitching? Annotating for Finer-Grained Dis
 
 For info on this project and the dataset, feel free to reach the authors at elena.alvarez@lsi.uned.es or lignos@brandeis.edu.
 
+* 📄 [Paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.342.pdf)
+* ▶️ [Pre-recorded video](https://youtu.be/Rhep2Lk6o0Q)
+
 For reference of this work see:
-📄 [Paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.342.pdf)
-▶️ [Pre-recorded video](https://youtu.be/Rhep2Lk6o0Q)
 
 ```
 @InProceedings{alvarezmellado-lignos:2022:LREC,
